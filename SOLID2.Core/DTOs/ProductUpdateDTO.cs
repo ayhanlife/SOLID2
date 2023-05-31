@@ -15,6 +15,8 @@ namespace SOLID2.Core.DTOs
 
         //sdsadsa
         //delete 
+        //dsadsa
+        //deneme olark yapıyrum
         public int CategoryId { get; set; }
     }
 }
