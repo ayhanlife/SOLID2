@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Formats.Tar;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -23,6 +24,7 @@ namespace SOLID2.Core.DTOs
         //v5
         //v5
         //v5
+        //V7TarEntryv8
         public int CategoryId { get; set; }
     }
 }
